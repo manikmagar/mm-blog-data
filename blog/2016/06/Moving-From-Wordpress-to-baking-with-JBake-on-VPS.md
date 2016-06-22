@@ -4,7 +4,7 @@ type=post
 tags=JBake, Static Blogging
 status=published
 summary=If my wordpress cache plugin is going to serve static html pages to users to improve performance then, do I really need wordpress, php, mysql setup? Can I not just generate a static website and serve that? That is why I moved to baking my blog a with JBake.
-githubIssueId=1
+githubIssueId=2
 ~~~~~~
 
 I started my blogging with a free blog on wordpress.com. Few month's before, I moved from wordpress.com to self hosted wordpress.org blog. As I wanted more control on my hosting and blog, I opted for self managed VPS on [DigitalOcean.com](https://m.do.co/c/fff9bf2cbe08) (referral link) where I now host few blogs and sites using wordpress. 
@@ -47,4 +47,3 @@ Next will be few posts, that will elaborate on each part of my JBake setup. Stay
 
 
 Feel free to let me know your thoughts or questions. I am sure you have a [Github](https://github.com) account :).
-
