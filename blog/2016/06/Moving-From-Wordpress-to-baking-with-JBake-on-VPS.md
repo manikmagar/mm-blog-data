@@ -42,7 +42,7 @@ After playing with JBake, I quickly built up my first blog (yes, the one you are
 
 ### What Next?
 
-Next will be few posts, that will elaboratate on each part of JBake setup. Stay tuned and keep watching this space!
+Next will be few posts, that will elaborate on each part of my JBake setup. Stay tuned and keep watching this space!
 
 
 
